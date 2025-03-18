@@ -12,7 +12,7 @@ Achieved **0.77 Kaggle score**
   - Combined `SibSp` + `Parch` ➡️ `Family`
   - Handled missing data (Age, Fare)
   - Encoded categorical variables
-- 📈 **Accuracy**: 71% on test data
+- 📈 **Accuracy**: 77% on test data
 - 🏅 **Kaggle Score**: 0.77
 
 ---
